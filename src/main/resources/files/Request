@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetCourseDetailsRequest xmlns="http://www.snitechnology.net"
+                         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                         xsi:schemaLocation="http://www.snitechnology.net request.xsd">
+    <id>123</id>
+</GetCourseDetailsRequest>
